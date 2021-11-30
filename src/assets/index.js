@@ -1,0 +1,9 @@
+export { default as Step1 } from './Wizard-Step1.png';
+export { default as Step2 } from './Wizard-Step2.png';
+export { default as Step3 } from './Wizard-Step3.png';
+export { default as Step4 } from './Wizard-Step4.png';
+export { default as Step5 } from './Wizard-Step5.png';
+export { default as TomeiLogo } from './Logo.png';
+export { default as WizardHorizontalBar } from './Wizard-HorizontalBar.png';
+export { default as Avatar } from './Avatar.png';
+export { default as ArrowRight } from './arrow-right.png';
